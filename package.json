@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@serialport/parser-delimiter": "^10.3.0",
+    "@serialport/parser-readline": "^10.3.0",
     "jsonschema": "^1.2.6",
     "mosca": "^2.8.3",
     "mqtt": "^4.3.7",
